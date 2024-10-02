@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE25BA44-EA74-4016-84DC-3AB1E5C3E3FF}|game\\game.csproj|c:\\users\\\u0441\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\game\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE25BA44-EA74-4016-84DC-3AB1E5C3E3FF}|game\\game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\game\\game\\Program.cs",
+              "RelativeDocumentMoniker": "game\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u043C\u0435\u0439\u043D\u044B\u0439\\source\\repos\\game\\game\\Program.cs*",
+              "RelativeToolTip": "game\\Program.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:23:17.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
