@@ -20,12 +20,11 @@ class Program
         bool gotThirdArtifact = false;
         bool gotKey = false;
         bool gotLockpick = false;
-
         int ventAttempts = 0;
 
         while (true)
         {
-            Console.WriteLine($"\n{playerName}, что вы хотите сделать?");
+            Console.WriteLine($"{playerName}, что вы хотите сделать?");
             Console.WriteLine("1. Открыть дверь");
             Console.WriteLine("2. Заглянуть под кровать");
             Console.WriteLine("3. Открыть ящик");
